@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fc0b935b.css","mappings":"AAAA,QAKI,WAAY,CADZ,UAAY,CAFZ,YAAa,CACb,WAGJ","sources":["App.css"],"sourcesContent":[".Iframe{\r\n   \r\n    height: 550px;\r\n    width: 423px;\r\n    color: white;\r\n    border: none;\r\n}"],"names":[],"sourceRoot":""}
